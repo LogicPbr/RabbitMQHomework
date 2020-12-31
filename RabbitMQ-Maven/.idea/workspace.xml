@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3312c898-6a45-4308-bcfa-4b5b38e358c2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\Development\Tools\apache-maven-3.6.1\conf\settings-person.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mPMx8brYaqMk6zcq1lPnUpz5Za" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/logic/homework/simple" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.logic.homework.simple" />
+      <recent name="com.logic.homework.util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Development\workspace-gp\RabbitMQ\homework\RabbitMQ-Maven\src\main\java\com\logic\homework\simple" />
+      <recent name="D:\Development\workspace-gp\RabbitMQ\homework\RabbitMQ-Maven\src\main\java\com\logic\homework" />
+      <recent name="D:\Development\workspace-gp\RabbitMQ\homework\RabbitMQ-Maven\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MyProducerFanout">
+    <configuration name="MyConsumerDirect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.logic.homework.simple.MyConsumerDirect" />
+      <module name="RabbitMQ-Maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.logic.homework.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyConsumerFanout" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.logic.homework.simple.MyConsumerFanout" />
+      <module name="RabbitMQ-Maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.logic.homework.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyConsumerTopic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.logic.homework.simple.MyConsumerTopic" />
+      <module name="RabbitMQ-Maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.logic.homework.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyProducerFanout" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.logic.homework.simple.MyProducerFanout" />
+      <module name="RabbitMQ-Maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.logic.homework.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyProducerTopic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.logic.homework.simple.MyProducerTopic" />
+      <module name="RabbitMQ-Maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.logic.homework.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyProducerFanout" />
+        <item itemvalue="Application.MyConsumerFanout" />
+        <item itemvalue="Application.MyConsumerTopic" />
+        <item itemvalue="Application.MyProducerTopic" />
+        <item itemvalue="Application.MyConsumerDirect" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3312c898-6a45-4308-bcfa-4b5b38e358c2" name="Default Changelist" comment="" />
+      <created>1609391016796</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609391016796</updated>
+      <workItem from="1609391022239" duration="7211000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1492" height="213" key="GridCell.Tab.0.bottom" timestamp="1609404589803">
+      <screen x="0" y="1440" width="1536" height="834" />
+    </state>
+    <state width="1492" height="213" key="GridCell.Tab.0.bottom/0.0.1728.1122/0.1440.1536.834@0.1440.1536.834" timestamp="1609404589803" />
+    <state width="1492" height="213" key="GridCell.Tab.0.center" timestamp="1609404589803">
+      <screen x="0" y="1440" width="1536" height="834" />
+    </state>
+    <state width="1492" height="213" key="GridCell.Tab.0.center/0.0.1728.1122/0.1440.1536.834@0.1440.1536.834" timestamp="1609404589803" />
+    <state width="1492" height="213" key="GridCell.Tab.0.left" timestamp="1609404589803">
+      <screen x="0" y="1440" width="1536" height="834" />
+    </state>
+    <state width="1492" height="213" key="GridCell.Tab.0.left/0.0.1728.1122/0.1440.1536.834@0.1440.1536.834" timestamp="1609404589803" />
+    <state width="1492" height="213" key="GridCell.Tab.0.right" timestamp="1609404589803">
+      <screen x="0" y="1440" width="1536" height="834" />
+    </state>
+    <state width="1492" height="213" key="GridCell.Tab.0.right/0.0.1728.1122/0.1440.1536.834@0.1440.1536.834" timestamp="1609404589803" />
+    <state width="1492" height="265" key="GridCell.Tab.1.bottom" timestamp="1609404589798">
+      <screen x="0" y="1440" width="1536" height="834" />
+    </state>
+    <state width="1492" height="265" key="GridCell.Tab.1.bottom/0.0.1728.1122/0.1440.1536.834@0.1440.1536.834" timestamp="1609404589798" />
+    <state width="1492" height="265" key="GridCell.Tab.1.center" timestamp="1609404589797">
+      <screen x="0" y="1440" width="1536" height="834" />
+    </state>
+    <state width="1492" height="265" key="GridCell.Tab.1.center/0.0.1728.1122/0.1440.1536.834@0.1440.1536.834" timestamp="1609404589797" />
+    <state width="1492" height="265" key="GridCell.Tab.1.left" timestamp="1609404589797">
+      <screen x="0" y="1440" width="1536" height="834" />
+    </state>
+    <state width="1492" height="265" key="GridCell.Tab.1.left/0.0.1728.1122/0.1440.1536.834@0.1440.1536.834" timestamp="1609404589797" />
+    <state width="1492" height="265" key="GridCell.Tab.1.right" timestamp="1609404589798">
+      <screen x="0" y="1440" width="1536" height="834" />
+    </state>
+    <state width="1492" height="265" key="GridCell.Tab.1.right/0.0.1728.1122/0.1440.1536.834@0.1440.1536.834" timestamp="1609404589797" />
+    <state x="249" y="1440" key="SettingsEditor" timestamp="1609395189666">
+      <screen x="0" y="1440" width="1536" height="834" />
+    </state>
+    <state x="249" y="1440" key="SettingsEditor/0.0.1728.1122/0.1440.1536.834@0.1440.1536.834" timestamp="1609395189666" />
+    <state x="490" y="1599" width="540" height="524" key="StructurePopup" timestamp="1609395376458">
+      <screen x="0" y="1440" width="1536" height="834" />
+    </state>
+    <state x="490" y="1599" width="540" height="524" key="StructurePopup/0.0.1728.1122/0.1440.1536.834@0.1440.1536.834" timestamp="1609395376458" />
+    <state x="178" y="1565" key="new project wizard" timestamp="1609404580677">
+      <screen x="0" y="1440" width="1536" height="834" />
+    </state>
+    <state x="178" y="1565" key="new project wizard/0.0.1728.1122/0.1440.1536.834@0.1440.1536.834" timestamp="1609404580677" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/logic/homework/simple/MyConsumerTopic.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
